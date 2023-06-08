@@ -47,7 +47,7 @@ function getBotMessage(userMessage) {
             break;
 
         case "quel est ton nom ?":
-            botMessage = "Je m'appelle Chatbot.";
+            botMessage = "Je m'appelle bobot.";
             break;
 
         case "quelle est la météo ?":
